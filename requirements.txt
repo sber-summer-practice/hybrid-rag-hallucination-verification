@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+rank_bm25
+sentence-transformers
+pymorphy3
+bitsandbytes
+accelerate
+scikit-learn
+numpy

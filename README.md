@@ -20,7 +20,7 @@ The module is specifically tailored for the Russian language using the SberQuAD 
 
 ---
 
-## 🛠 Архитектура пайплайна
+## Архитектура пайплайна
 
 1. **User Query** Поиск в базе знаний (SberQuAD).
 2. **Hybrid Search:** `0.5 * BM25 (pymorphy3) + 0.5 * Dense (LaBSE)` Извлечение Top-3 релевантных чанков.

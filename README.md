@@ -38,8 +38,8 @@ The module is specifically tailored for the Russian language using the SberQuAD 
 
 #### Детальная статистика классификации:
 
-| Класс | Precision | Recall | F1-Score | Support |
-| :--- | :---: | :---: | :---: | :---: |
+| Класс | Precision | Recall | F1-Score | 
+| :--- | :---: | :---: | :---: | 
 | **Брак/Галлюцинация (0)** | 0.62 | 0.71 | 0.67 |
 | **Корректен (1)** | 0.95 | 0.93 | 0.94 | 
 
